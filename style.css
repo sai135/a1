@@ -1,0 +1,19 @@
+.heading {
+    width: 96%;
+    margin: 0px;
+    font-size: 23px;
+    font-family: 'Noto Serif Display', serif;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(136, 78, 7);
+}
+.note {
+    font-size: 14px;
+    color: black;
+}
+body{
+    background-size: cover;
+}
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+}
